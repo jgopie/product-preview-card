@@ -81,6 +81,6 @@ body {
     }
 
     .productPreview>img:first-child {
-        object-fit: contain;
+        height: 100%;
     }
 }
